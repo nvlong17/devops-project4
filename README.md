@@ -1,4 +1,4 @@
-[![nvlong17](https://circleci.com/<gh>/<nvlong17>/<devops-project4>.svg?style=svg)](https://app.circleci.com/pipelines/github/nvlong17/devops-project4)
+[![nvlong17](https://circleci.com/gh/nvlong17/devops-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/nvlong17/devops-project4)
 
 ## Project Overview
 
