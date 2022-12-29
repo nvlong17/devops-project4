@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build -t longnv43/udacity4:latest
+docker build . -t longnv43/udacity4:latest
 
 # Step 2: 
 # List docker images
